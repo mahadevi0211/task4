@@ -1,0 +1,164 @@
+body {
+    margin: 40px;
+}
+
+.one,.two {
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+    width: 800px;
+    background-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(215, 211, 211);
+    border-radius: 3px;
+    display: flex;
+    align-items: flex-start; 
+}
+
+
+.sub1,.sub11 {
+    height: 80px;
+    width: 80px;
+    border-radius: 3px;
+    position: relative;
+    background-color: rgb(215, 206, 222);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: left;
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.icon {
+    font-size: 30px;
+    color: blueviolet;
+}
+.icon1{
+    font-size: 34px;
+    color: blueviolet;
+}
+
+.sub2,
+ .sub21{
+    height: 20px;
+    width: 60px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+.sub3{
+    height: 20px;
+    width: 53px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+
+.sub2 ,.sub21{
+    background-color: rgb(215, 206, 222);
+    margin-left: 20px;
+}
+
+.sub3 {
+    background-color: rgb(207, 222, 206);
+    margin-left: 15px;
+
+}
+
+.a ,.a1{
+    color: blueviolet;
+    padding:5px;
+}
+
+.b {
+    color: green;
+    padding:5px;
+}
+
+.d,.d1 {
+    margin-top: 4px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-bottom: 2px ;
+    color: blueviolet;
+}
+
+.sub4,.sub41 {
+    display: flex;
+    align-items: center;  
+    margin-top: 0px;
+    height: 5px; 
+}
+
+.c, .c1 ,.i{
+    color: rgb(179, 175, 175);
+}
+
+.h,.h1 {
+    display: flex;
+    margin-bottom: 2px;
+    margin-top: 8px;
+}
+
+.left,.left1 {
+    color: rgb(179, 175, 175);
+    margin-left: auto;
+    margin-right: 20px;
+    margin-top: 13px;
+    text-align: right; 
+    line-height: 1px;
+    font-size: 18px;   
+}
+
+.hike,.hike1 {
+    line-height: 1px;
+}
+
+.sub5,.sub51 {
+    background-color: blueviolet;
+    height: 18px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    margin-right: 10px;
+    border-radius: 2px;
+    padding: 3px; 
+}
+
+.sub6,.sub61 {
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 17px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    border-radius: 3px;
+    padding: 3px; 
+}
+
+.x,.x1 {
+    color: white;
+    font-size: 13px;
+}
+
+.y ,.y1{
+    color: black;
+    font-size: 13px;
+}
+.last,.last1{
+    display: flex;
+}
